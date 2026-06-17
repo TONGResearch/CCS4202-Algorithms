@@ -1,0 +1,4 @@
+Metric	Greedy	Dynamic Programming
+Total Weight	3977g	3995g
+Total Worth	721	722
+Execution Time	11860750 ns (11.861 ms)	6890833 ns (6.891 ms)
